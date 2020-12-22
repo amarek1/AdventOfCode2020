@@ -1,1 +1,5 @@
 # AdventOfCode2020
+
+Solutions to the Advent of Code 2020 puzzles.
+
+Questions can be found on https://adventofcode.com
